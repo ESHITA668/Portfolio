@@ -32,8 +32,6 @@ Skilled in Java, Spring Boot, HTML, CSS, JavaScript, and MySQL.
 ---
 ## 📷 Website Preview
 
-## 📸 Website Preview
-
 ![Portfolio Screenshot](image/screenshotPortfolio.png)
 
 
